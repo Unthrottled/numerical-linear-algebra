@@ -1,4 +1,5 @@
 nbs/*.jpg
 nbs/*.npy
 .idea/
+nbs/*.mp4
 nbs/.ipynb_checkpoints
