@@ -1,4 +1,5 @@
-nbs/*.jpg
+nbs/**/*.jpg
+nbs/**/*.png
 nbs/*.npy
 .idea/
 nbs/*.mp4
